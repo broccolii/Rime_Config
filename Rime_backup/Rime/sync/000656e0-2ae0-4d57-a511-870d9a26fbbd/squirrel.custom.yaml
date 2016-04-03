@@ -1,0 +1,43 @@
+patch:
+  preset_color_schemes:
+    apathy:
+      candidate_format: '%c %@ '
+      font_point: 18
+      label_font_point: 17
+      corner_radius: 2
+      comment_text_color: 14540253
+      author: LIANG Hai <___@___.com>
+      border_height: 5
+      border_width: 7
+      horizontal: true
+      hilited_candidate_text_color: 15625728
+      inline_preedit: true
+      back_color: 16777215
+      text_color: 11184810
+      font_face: Lucida Grande
+      hilited_candidate_back_color: 16777215
+      label_font_face: Lucida Grande
+      name: 冷漠 / Apathy
+    broccoliii:
+      candidate_text_color: 16777215
+      author: broccoliii@163.com
+      border_color: 0
+      hilited_text_color: 16573092
+      back_color: 0
+      hilited_candidate_text_color: 16573092
+      hilited_back_color: 0
+      text_color: 16573092
+      font_face: Lucida Grande
+      hilited_candidate_back_color: 0
+      name: broccoliii
+      comment_text_color: 16777215
+  style:
+    alpha: 0.55
+    border_height: 0
+    font_point: 19
+    horizontal: true
+    line_spacing: 1
+    corner_radius: 10
+    color_scheme: broccoliii
+  show_notifications_via_notification_center: false
+  us_keyboard_layout: true
